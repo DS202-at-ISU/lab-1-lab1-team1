@@ -21,3 +21,11 @@ Hi, my name is Cassandra, but I go by Cassie. I am a junior in
 industrial engineering. I love to travel to new places and the next
 place on my wishlist is Australia. All of this went smoothly once I
 figure out what exactly I was actually doing.
+
+This is a commit from RStudion. Name: Cameron Kraklio Major: Data
+Science Year: 2. Most went well. I needed to add my email and name
+before commit.
+
+This is a commit from RStudio. Name: Carter Parks; Major: Computer
+Science (Junior); Most of the lab went well, I had a credential issue
+when pushing to git but hopefully that gets resolved.
