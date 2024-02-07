@@ -19,4 +19,5 @@ you are done with your submission.
 
 Hi, my name is Cassandra, but I go by Cassie. I am a junior in
 industrial engineering. I love to travel to new places and the next
-place on my wishlist is Australia.
+place on my wishlist is Australia. All of this went smoothly once I
+figure out what exactly I was actually doing.
