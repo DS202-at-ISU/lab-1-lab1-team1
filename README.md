@@ -16,3 +16,7 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+Hi, my name is Cassandra, but I go by Cassie. I am a junior in
+industrial engineering. I love to travel to new places and the next
+place on my wishlist is Australia.
