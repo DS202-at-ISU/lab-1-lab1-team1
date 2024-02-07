@@ -17,10 +17,10 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-Hi, my name is Cassandra, but I go by Cassie. I am a junior in
-industrial engineering. I love to travel to new places and the next
-place on my wishlist is Australia. All of this went smoothly once I
-figure out what exactly I was actually doing.
+This is from RStudio. Hi, my name is Cassandra, but I go by Cassie. I am
+a junior in industrial engineering. I love to travel to new places and
+the next place on my wishlist is Australia. All of this went smoothly
+once I figured out what exactly I was actually doing.
 
 This is a commit from RStudion. Name: Cameron Kraklio Major: Data
 Science Year: 2. Most went well. I needed to add my email and name
